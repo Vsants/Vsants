@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsants&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Gif" height="30" width"40" src="https://media.discordapp.net/attachments/839622930462933004/877367380664279091/picasion.com_be1f11db1c5553f0daa89d0f6426c991.gif">
+  <img align="center" alt="Vini-Gif" height="80" width"90" src="https://media.discordapp.net/attachments/839622930462933004/877367380664279091/picasion.com_be1f11db1c5553f0daa89d0f6426c991.gif">
 </div>
   
   ##
