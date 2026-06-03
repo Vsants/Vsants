@@ -43,8 +43,12 @@ Apaixonado por cybersecurity e desenvolvimento — combinando os dois mundos par
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vsants&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsants&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vsants&theme=github_dark" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vsants&theme=github_dark" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Vsants&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" />
 </p>
 
 ---
