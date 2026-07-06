@@ -21,7 +21,7 @@ Apaixonado por cybersecurity e desenvolvimento — combinando os dois mundos par
 - 🔐 Experiência em **Segurança da Informação**
 - 💻 Desenvolvendo projetos com Python, JavaScript e HTML/CSS
 - 🛡️ Explorando segurança ofensiva, pentest e boas práticas de infosec
-- 📫 Contato: **vsantos733@gmail.com**
+
 
 ---
 
